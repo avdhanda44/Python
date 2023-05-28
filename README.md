@@ -1,6 +1,7 @@
 # Python
 
-Creating a Python repository on GitHub to cover the basics of Python is a great initiative! Here are some topics you could consider including in your repository:
+Creating a Python repository on GitHub to cover the basics of Python.
+The topic I discussed are below:
 Topic Discussed 
    - Installation and setup
    - Python interpreter and basic syntax
